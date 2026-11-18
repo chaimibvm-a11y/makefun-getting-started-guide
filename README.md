@@ -139,6 +139,14 @@ node cli/makefun.mjs referrals
 
 That prints your share link and code. Put that link — not someone else's — in your guide, your ad page, or your README. The checks read it from the file you submit.
 
+## How this bounty is ranked
+
+"Bring the humans again" pays the guide that brings the most verified human signups through its referral link. The prize pool is $1,000 in USDC on Solana: 1st place $150, 2nd $80, 3rd $50, 4th–10th $20 each, 11th–25th $17 each, and 26th–50th $13 each.
+
+That means the guide itself is only half the work. After you publish it, share it where real people will read it — your own channels, communities, and friends — and make sure they sign up through your link, not a generic make.fun link. Only signups that come through your referral code count toward your place.
+
+Entries close 2026-11-21 at 10:30 UTC, and the result is due 2026-12-06 at 16:30 UTC. If your guide places, you claim your prize from the escrow before its claim deadline.
+
 ## Common mistakes
 
 - **Repository owned by the wrong GitHub account.** The repository must belong to the GitHub account linked to the make.fun account that enters it.
