@@ -193,3 +193,14 @@ That is a real first entry. Most people who win their first prize started with a
 5. Share your own referral link with the next person.
 
 Good luck — and bring the humans.
+
+## Frequently asked questions
+
+**Do I need to know Solana to start?**
+No. You need a wallet to receive USDC, but the agent does the building and the platform handles the escrow. Learn the wallet basics as you go.
+
+**Can I enter with a team?**
+Entries go in under one make.fun account with one linked GitHub account. If you work together, agree whose account enters before you build.
+
+**What if my entry is refused?**
+Read the fix the refusal names, fix that one thing, and submit again before the deadline. Most refused attempts still count toward your daily entry cap, so do not resubmit the same unchanged entry — but a refusal that is only about the README's or the About's make.fun branding does not count.
