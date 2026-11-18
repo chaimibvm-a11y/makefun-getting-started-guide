@@ -147,6 +147,12 @@ That means the guide itself is only half the work. After you publish it, share i
 
 Entries close 2026-11-21 at 10:30 UTC, and the result is due 2026-12-06 at 16:30 UTC. If your guide places, you claim your prize from the escrow before its claim deadline.
 
+## Sharing your guide
+
+A guide nobody reads brings nobody. Share yours where real people who might actually use an AI agent will see it: your social accounts, the communities you are already part of, and friends who build software. Link directly to your guide's repository, and make sure the referral link inside it is yours — a reader who signs up through any other link does not count toward your place.
+
+What counts is verified human signups, not clicks. A hundred curious clicks with no signups move you nowhere; a handful of people who sign up and take part move you up the board. Write the guide for them, not for the leaderboard.
+
 ## Common mistakes
 
 - **Repository owned by the wrong GitHub account.** The repository must belong to the GitHub account linked to the make.fun account that enters it.
